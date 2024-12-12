@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45F85926-2F15-498F-95A9-AEF8D4588B97}|HiringPortal.Presentation\\HiringPortal.Presentation.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45F85926-2F15-498F-95A9-AEF8D4588B97}|HiringPortal.Presentation\\HiringPortal.Presentation.csproj|solutionrelative:hiringportal.presentation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\migrations\\20241212092913_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\migrations\\20241212092913_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\master\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\master\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\master\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\master\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\usecase\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\usecase\\interview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\usecase\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\usecase\\requisition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\usecase\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\usecase\\jobapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\context\\applicationcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\usecase\\requisitionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\usecase\\requisitionconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\master\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\master\\employeeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\usecase\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\usecase\\jobapplicationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45F85926-2F15-498F-95A9-AEF8D4588B97}|HiringPortal.Presentation\\HiringPortal.Presentation.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45F85926-2F15-498F-95A9-AEF8D4588B97}|HiringPortal.Presentation\\HiringPortal.Presentation.csproj|solutionrelative:hiringportal.presentation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\usecase\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\usecase\\jobconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\master\\candidateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\master\\candidateconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\stageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\stageconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\skillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\skillconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\requisitionstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\requisitionstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\jobstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\jobstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\employeetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\employeetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\departmentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\applicationstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\applicationstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\stage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\skill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\requisitionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\requisitionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\jobstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\interviewstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.domain\\entities\\static\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA9C3F89-0552-49C4-B94D-901591F9E1B3}|HiringPortal.Domain\\HiringPortal.Domain.csproj|solutionrelative:hiringportal.domain\\entities\\static\\applicationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|c:\\users\\ankit.gwari\\source\\repos\\hiringportal\\src\\hiringportal.infrastructure\\persistence\\configuration\\static\\interviewstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2B81E0E9-D40F-405F-9640-FAC421D6A94F}|HiringPortal.Infrastructure\\HiringPortal.Infrastructure.csproj|solutionrelative:hiringportal.infrastructure\\persistence\\configuration\\static\\interviewstatusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20241212092913_m1.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Migrations\\20241212092913_m1.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Migrations\\20241212092913_m1.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Migrations\\20241212092913_m1.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Migrations\\20241212092913_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T09:34:08.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Presentation\\Program.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Presentation\\Program.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Presentation\\Program.cs",
+              "RelativeToolTip": "HiringPortal.Presentation\\Program.cs",
+              "ViewState": "AgIAAAcAAACAZ2ZmZmYcwAwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T07:38:28.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Master\\Employee.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Master\\Employee.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Master\\Employee.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Master\\Employee.cs",
+              "ViewState": "AgIAABAAAACgZmZmZiYvwBQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T11:16:43.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "JobApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\JobApplication.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\UseCase\\JobApplication.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\JobApplication.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\UseCase\\JobApplication.cs",
+              "ViewState": "AgIAAAwAAACwmZmZmbk3wBMAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:51:51.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Requisition.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\Requisition.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\UseCase\\Requisition.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\Requisition.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\UseCase\\Requisition.cs",
+              "ViewState": "AgIAAA0AAAAgAAAAAOA/wBUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:25:43.828Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Interview.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\Interview.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\UseCase\\Interview.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\UseCase\\Interview.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\UseCase\\Interview.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA0wA4AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:39:30.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Master\\Candidate.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Master\\Candidate.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Master\\Candidate.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Master\\Candidate.cs",
+              "ViewState": "AgIAAAkAAADo/////98ywAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:23:56.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\EmployeeConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\EmployeeConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\EmployeeConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\EmployeeConfiguration.cs",
+              "ViewState": "AgIAABIAAACAZmZmZuYbwCAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T09:02:55.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequisitionConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\RequisitionConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\RequisitionConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\RequisitionConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\RequisitionConfiguration.cs",
+              "ViewState": "AgIAABcAAACgNDMzM3MmwCUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:21:57.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationContext.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Context\\ApplicationContext.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAQwCUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T13:00:50.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JobApplicationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobApplicationConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobApplicationConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobApplicationConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobApplicationConfiguration.cs",
+              "ViewState": "AgIAABYAAAAAaGZmZmbevx8AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T10:31:42.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Presentation\\appsettings.json",
+              "RelativeDocumentMoniker": "HiringPortal.Presentation\\appsettings.json",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Presentation\\appsettings.json",
+              "RelativeToolTip": "HiringPortal.Presentation\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-12T07:24:35.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CandidateConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\CandidateConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\CandidateConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\CandidateConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Master\\CandidateConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:23:13.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RoleConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T10:17:38.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JobConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\UseCase\\JobConfiguration.cs",
+              "ViewState": "AgIAAAMAAACwmZmZmZkewBMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:13:31.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "StageConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\StageConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\StageConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\StageConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\StageConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:15:35.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "SkillConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\SkillConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\SkillConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\SkillConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\SkillConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:19:14.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "RequisitionStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RequisitionStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RequisitionStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RequisitionStatusConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\RequisitionStatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:23:11.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "JobStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\JobStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\JobStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\JobStatusConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\JobStatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:16:53.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmployeeTypeConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\EmployeeTypeConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\EmployeeTypeConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\EmployeeTypeConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\EmployeeTypeConfiguration.cs",
+              "ViewState": "AgIAAAYAAACgmZmZmVkqwBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:02:41.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DepartmentConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\DepartmentConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\DepartmentConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\DepartmentConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\DepartmentConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:00:23.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\ApplicationStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\ApplicationStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\ApplicationStatusConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\ApplicationStatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:15:45.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Stage.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\Stage.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\Stage.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\Stage.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\Stage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:20:35.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Skill.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\Skill.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\Skill.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\Skill.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\Skill.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T04:56:15.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RequisitionStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\RequisitionStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\RequisitionStatus.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\RequisitionStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\RequisitionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:23:54.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "JobStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\JobStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\JobStatus.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\JobStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\JobStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:13:03.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "InterviewStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\InterviewStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\InterviewStatus.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\InterviewStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\InterviewStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:18:33.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\EmployeeType.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\EmployeeType.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\EmployeeType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T09:07:36.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ApplicationStatus.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\ApplicationStatus.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Domain\\Entities\\Static\\ApplicationStatus.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Domain\\Entities\\Static\\ApplicationStatus.cs",
+              "RelativeToolTip": "HiringPortal.Domain\\Entities\\Static\\ApplicationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:15:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "InterviewStatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\InterviewStatusConfiguration.cs",
+              "RelativeDocumentMoniker": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\InterviewStatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\ankit.gwari\\source\\repos\\HiringPortal\\src\\HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\InterviewStatusConfiguration.cs",
+              "RelativeToolTip": "HiringPortal.Infrastructure\\Persistence\\Configuration\\Static\\InterviewStatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:17:47.07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
